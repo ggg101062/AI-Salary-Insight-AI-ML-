@@ -1,4 +1,4 @@
-# AI-Salary-Insight-2023：全球 AI / ML 產業薪資結構之量化與視覺化分析
+# AI-Salary-Insight：全球 AI / ML 產業薪資結構之量化與視覺化分析
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-orange)
