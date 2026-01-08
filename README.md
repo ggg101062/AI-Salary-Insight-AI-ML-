@@ -5,7 +5,7 @@
 ![Visualization](https://img.shields.io/badge/Library-Matplotlib-green)
 
 ## 📌 專案概述 (Project Overview)
-本專案為「大一 AI 實驗」課程之核心成果，旨在透過量化分析手段，探討 2023 年全球人工智慧 (AI) 與機器學習 (ML) 產業的薪資結構。專案從 Kaggle 獲取原始數據，經過完整的資料前處理 (Data Preprocessing) 與清洗，利用 Python 資料科學工具鏈進行多維度視覺化探索。
+本專案為「大一 AI 實驗」課程之核心成果，旨在透過量化分析手段，探討全球人工智慧 (AI) 與機器學習 (ML) 產業的薪資結構。專案從 Kaggle 獲取原始數據，經過完整的資料前處理 (Data Preprocessing) 與清洗，利用 Python 資料科學工具鏈進行多維度視覺化探索。
 
 本研究不僅關注薪資數字，更深入探討了 **經驗等級、遠端工作比例、職務類別** 與 **報酬** 之間的相關性，為數位轉型浪潮下的職涯規劃提供數據驅動的洞察。
 
