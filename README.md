@@ -43,7 +43,7 @@
 * **專案背景**：本專案為 2025 年 AI 實驗課程之期末專案。
 * **研究簡報**：[📊 點此查看 Canva 線上簡報](https://www.canva.com/design/DAG9ubtFwTk/LrHapHMgiOg0XVIas3YZPg/edit?utm_content=DAG9ubtFwTk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-🚀 進階延伸：機器學習與相關性分析
+## 🚀 進階延伸：機器學習與相關性分析
 為了更深入探討薪資背後的影響因子，我進行了第二階段的延伸分析：
 
 資料深度前處理：完成了特徵編碼（Encoding）與缺失值精密處理。
