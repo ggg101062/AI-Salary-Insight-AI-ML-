@@ -69,4 +69,4 @@
 ## ✍️ 關於作者 (About the Author)
 * **作者**：高睿澤 (Jui-Tse Kao)
 * **機構**：淡江大學 人工智慧學系 (大一期末專案)
-* **專案簡報**：[📊 點此查看 Canva 線上簡報](https://www.canva.com/design/DAG9ubtFwTk/LrHapHMgiOg0XVIas3YZPg/edit?utm_content=DAG9ubtFwTk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* **專案簡報**：[📊 點此查看 Canva 線上簡報](https://www.canva.com/design/DAHLgiCcPQE/3Ug39KoH3S59_zz22bliqw/edit)
