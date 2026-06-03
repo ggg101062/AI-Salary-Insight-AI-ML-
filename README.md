@@ -12,6 +12,7 @@
 為了完整體現學習與開發的演進過程，本專案依據研究階段區分為兩大核心模組：
 1. **`analysis_v1_eda.ipynb` (第一階段：基礎資料探索)**：專注於原始數據的清洗 (ETL) 與多維度視覺化探索，建立產業薪資基礎輪廓，並以簡單線性回歸作為基準線模型 (Baseline)。
 2. **`analysis_v2_advanced_ml_dl.ipynb` (第二階段：進階雙模型預測)**：基於前期洞察，引進進階特徵工程，建構隨機森林迴規 (Random Forest) 與深度神經網路 (DNN) 進行模型訓練與效能評比。
+(https://colab.research.google.com/drive/1xyMOV2efgTI_-Sll9l86pZD8sM0o6kIc?usp=sharing)
 
 ## 🛠️ 技術棧 (Tech Stack)
 * **Programming Language**: Python
